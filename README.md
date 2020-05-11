@@ -6,11 +6,11 @@ The company and personal information in robot is removed.
 
 ## Table of Contents
 
-* [Convert PDF Invoice to Excel Table](#Convert PDF Invoice to Excel Table)
-* [Oracle ERP GL Account Entry](#Oracle ERP GL Account Entry)
-* [Maintenance E-billing in customer's website](#Maintenance E-billing in customer's website)
-* [DC Notes Entry](#DC Notes Entry)
-* [VBA for Excel](#VBA for Excel)
+* [Convert PDF Invoice to Excel Table](#convert-pdf-invoice-to-excel-table)
+* [Oracle ERP GL Account Entry](#oracle-erp-gl-account-entry)
+* [Maintenance E-billing in customer's website](#maintenance-e-billing-in-customers-website)
+* [DC Notes Entry](#dc-notes-entry)
+* [VBA for Excel](#vba-for-excel)
 
 # Convert PDF Invoice to Excel Table
 
