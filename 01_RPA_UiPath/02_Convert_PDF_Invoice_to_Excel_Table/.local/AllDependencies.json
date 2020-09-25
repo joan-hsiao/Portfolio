@@ -1443,9 +1443,9 @@
     "restore": {
       "projectUniqueName": "PDFtoERP-1",
       "projectName": "PDFtoERP-1",
-      "projectPath": "C:\\Users\\paran\\Documents\\GitHub\\Portfolio\\Convert_PDF_Invoice_to_Excel_Table\\.local",
+      "projectPath": "C:\\Users\\paran\\Documents\\GitHub\\Portfolio\\02_Convert_PDF_Invoice_to_Excel_Table\\.local",
       "packagesPath": "C:\\Users\\paran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\paran\\Documents\\GitHub\\Portfolio\\Convert_PDF_Invoice_to_Excel_Table\\.local"
+      "outputPath": "C:\\Users\\paran\\Documents\\GitHub\\Portfolio\\02_Convert_PDF_Invoice_to_Excel_Table\\.local"
     },
     "frameworks": {
       "net461": {
