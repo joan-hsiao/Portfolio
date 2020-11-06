@@ -68,6 +68,17 @@ I have 3+ years experience in UiPath development for finance and accounting, and
   * When add new vendor, add folder named by vendor code and add excel file with marco.
   * Edit marco by vendor.
   
+# Print Vouchers 
+
+* Process
+  * Clear list of voucher number. (Optional)
+  * Open Oracle ERP.
+  * Query voucher number and append list.
+  * Print vouchers one by one. (Due to our system don't allow batch print)  
+  * Close ERP system.
+  
 # VBA for Excel
 * FinancialReportDownload.xlsm
   * It's a web crawler write by VBA, for downloading financial report and market price of listed company from TWSE(Taiwan Stock Exchange Corporation) and TPEX(Taipei Exchange) website.
+* WebCrawler-twseinfo.xlsm
+  * It's a web crawler write by VBA, for downloading material Information of listed company from TWSE(Taiwan Stock Exchange Corporation) website.
