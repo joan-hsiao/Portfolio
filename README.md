@@ -10,7 +10,7 @@ I have 3+ years experience in UiPath development for finance and accounting, and
   * [Oracle ERP GL Account Entry](#oracle-erp-gl-account-entry)
   * [Maintenance E-billing in customer's website](#maintenance-e-billing-in-customers-website)
   * [DC Notes Entry](#dc-notes-entry)
-  * [Print Vouchers] (#print-vouchers)
+  * [Print Vouchers](#print-vouchers)
 * [VBA for Excel](#vba-for-excel)
 
 # RPA_UiPath
